@@ -53,7 +53,7 @@ from .consts import PATH_ADDON, PATH_USERFILES, JSPY_BRIDGE, ANKI20
 
 # Support for custom alert sounds located in user_files dir
 
-alert_name = "alert.mp3"
+alert_name = "hurry-up.mp3"
 default_alert = os.path.join(PATH_ADDON, "sounds", alert_name)
 user_alert = os.path.join(PATH_USERFILES, alert_name)
 
