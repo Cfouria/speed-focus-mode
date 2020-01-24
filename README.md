@@ -1,3 +1,5 @@
+added rate as hard
+
 <p align="center"><img src="screenshots/screenshot1.png"></p>
 
 <h2 align="center">Speed Focus Mode for Anki</h2>

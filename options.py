@@ -43,6 +43,7 @@ from aqt.forms import dconf
 
 action_spin_items = (
     ("Rate Again", "again"),
+    ("Rate Hard", "hard"),
     ("Rate Good", "good"),
     ("Bury Card", "bury")
 )

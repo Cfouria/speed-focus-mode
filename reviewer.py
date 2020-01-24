@@ -212,6 +212,10 @@ def linkHandler(self, url, _old):
         if self.state == "question":
             self._showAnswer()
         self._answerCard(self._defaultEase())
+    elif action == "hard":
+        if self.state == "question":
+            self._showAnswer()
+        self._answerCard(2)
     elif action == "bury":
         mw.reviewer.onBuryCard()
 

@@ -4,12 +4,6 @@
 #
 # Copyright (C) 2017-2019  Aristotelis P. <https://glutanimate.com/>
 #
-# Based on "Automatically show answer after X seconds"
-# (https://ankiweb.net/shared/info/648362761)
-#
-# The original author of this add-on is unknown, sadly,
-# but all credit for the original idea goes to them.
-#
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
 # published by the Free Software Foundation, either version 3 of the
@@ -36,10 +30,7 @@
 # Any modifications to this file must keep this entire header intact.
 
 """
-Entry point for the add-on into Anki 2.0
-
-In case you opened this file from Anki: Please do not modify anything
-if you are not sure what you are doing.
+Version information
 """
 
-import speed_focus_mode  # noqa: F401
+__version__ = "0.4.0-c4.1"

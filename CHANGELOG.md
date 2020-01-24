@@ -12,6 +12,12 @@ If you enjoy Speed Focus Mode, please consider supporting my work on Patreon, or
 
 ## [Unreleased]
 
+## [0.4.0-c4.1] - 2020-01-23
+
+### Added
+
+- rate as hard option
+
 ## [0.4.0-beta.1] - 2019-06-28
 
 ### [Download](https://github.com/glutanimate/speed-focus-mode/releases/tag/v0.4.0-beta.1)
